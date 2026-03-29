@@ -1,0 +1,7 @@
+{
+  "prompt": "A cinematic, surreal scene of a person sitting calmly in an urban environment, appearing normal and relaxed. However, their shadow is not human — it is made of thick, dark, toxic smoke and swirling pollution particles. The shadow looms larger than the person, spreading outward as if consuming them. The contrast between the clean human figure and the corrupted shadow is stark. No text, no labels, no charts. Minimalist color palette with deep blacks and muted tones. Highly detailed, atmospheric lighting, symbolic and unsettling, representing invisible air pollution harming humans.",
+  "model": "DALL-E 3",
+  "dataset_name": "PM2.5 Air Pollution Data - Indian Cities",
+  "dataset_url": "https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india",
+  "insight": "Air pollution is an invisible threat that silently overwhelms human health even when it is not immediately visible."
+}
